@@ -1,4 +1,4 @@
-angular.module('gymScheduler', ['ui.router'])
+angular.module('gymScheduler', ['ui.router', '720kb.datepicker'])
   .config(function($urlRouterProvider, $stateProvider, $locationProvider) {
     $urlRouterProvider.otherwise('/');
 
@@ -6,7 +6,7 @@ angular.module('gymScheduler', ['ui.router'])
       .state('home',{
         url: '/',
         templateUrl: '/app/components/clienthome/home.html'
-      });
+      })
 
     $locationProvider.html5Mode({
       enabled: true,
