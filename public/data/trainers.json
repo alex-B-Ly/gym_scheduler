@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Alex Obe",
+    "education": "B.A. in Psychology from Bucknell University.",
+    "bio": "Alex has been involved in some form of athletics for most of his life and loves all things that have to do with fitness. As a fitness enthusiast himself, he tries to view things from the member's perspective and believes that if it's not good enough for himself, then it's not good enough for his members.",
+  },
+  {
+    "id": 1,
+    "name": "Cassie Stevens",
+    "education": "AS Degree in Exercise Science, Raritan Valley Community College",
+    "bio": "Fitness has been part of my life since I was very young, I was always very involved in many different sports and martial arts. It wasn't until my senior year of high school that I realized I could help others with their fitness goals instead of my own and became very passionate about it. I went to Towson University for a semester and spent more time in the gym working out and exploring fitness. I would even join the ROTC kids on early morning runs and track work outs for fun. I decided to leave Towson and go to RVCC for exercise science. I enjoy learning new things involving fitness and believe that fitness can be fun as well as effective, you just need to find a work out that is right for you because we are all different physically and mentally. My goal is to help people find a way to enjoy exercise and motivate them towards their fitness goals.",
+  },
+  {
+    "id": 2,
+    "name": "Luis Calderon",
+    "education": "B.S. in Exercise Science/Corporate Fitness from The College of N.J., minor in Psychology.",
+    "bio": "Luis enthusiastically worked as a member of the P.T.S. staff since 2001. Through his work with clients of varying physical ability from ages 14-75, Luis has gained the tools and expertise necessary to meet the fitness needs of his clients. He takes pride in his duty to help his clients reach their goals safely and efficiently, while having a bit of fun along the way.",
+  }
+]
