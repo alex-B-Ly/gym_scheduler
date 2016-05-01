@@ -1,9 +1,10 @@
 var express = require('express');
+var app = express();
 var logger = require('morgan');
 var routes = require('./routes/routes.js')
-var app = express();
 var PORT = 3000;
 
+app.use(express.static('public'));
 app.use(logger('dev'));
 app.use('/', routes);
 
