@@ -1,0 +1,24 @@
+{
+  "name": "gym_scheduler",
+  "version": "1.0.0",
+  "description": "Gym scheduling app for personal trainers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-B-Ly/gym_scheduler.git"
+  },
+  "author": "alexbly, mtaggart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-B-Ly/gym_scheduler/issues"
+  },
+  "homepage": "https://github.com/alex-B-Ly/gym_scheduler#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
