@@ -4,6 +4,7 @@ var logger = require('morgan');
 var routes = require('./routes/routes.js')
 var PORT = 3000;
 
+app.use('/scripts', express.static(process.cwd() + '/node_modules'));
 app.use(express.static('public'));
 app.use(logger('dev'));
 app.use('/', routes);
